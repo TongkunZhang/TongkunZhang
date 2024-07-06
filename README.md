@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Tongkun</h1>
-<h3 align="center">A third year Computer Science Student at UofT.</h3>
-
+<!-- <h3 align="center">A third year Computer Science Student at UofT.</h3>
+ -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tongkunzhang&label=Profile%20views&color=0e75b6&style=flat" alt="tongkunzhang"/></p>
